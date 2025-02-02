@@ -4,7 +4,7 @@ This repository contains a simple authentication system that includes login and 
 
 Image:
 
-![image alt](image_url)
+![image alt](https://github.com/Ankit-Khairwal/Login/blob/9b7455313c210fd49aeb3f943887811d1060213c/Screenshot%202025-02-02%20221701.png)
 
 Features
 
