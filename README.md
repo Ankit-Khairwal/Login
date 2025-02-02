@@ -1,27 +1,25 @@
-Authentication System
+# Authentication System
 
-This repository contains a simple authentication system that includes login and sign-up functionality.
+open project at this live link--> https://login-lac-two.vercel.app/
 
-Image:
+• This repository contains a simple authentication system that includes login and sign-up functionality.
+![image alt](https://github.com/Ankit-Khairwal/Login/blob/002ed06292c4c22acb939680398d559e7a6b2765/Screenshot%202025-02-02%20221701.png)
 
-![image alt](https://github.com/Ankit-Khairwal/Login/blob/9b7455313c210fd49aeb3f943887811d1060213c/Screenshot%202025-02-02%20221701.png)
+# Features
 
-Features
+• User registration (Sign-up)
 
-User registration (Sign-up)
+• User login
 
-User login
+![image alt](https://github.com/Ankit-Khairwal/Login/blob/f2f73c2ad0c1d2cdaf8a7418d8bd80f8fcc6e2dd/Screenshot%202025-02-02%20221954.png)
 
-Password encryption
+• Session management
 
-Session management
+• Responsive UI
 
-Responsive UI
-
-Folder Structure
+# Folder Structure
 
 /auth-system
-
 │── frontend/             # Frontend (React, Vue, or any other framework)
 
 │   │── src/
@@ -30,9 +28,9 @@ Folder Structure
 
 │   │   │── pages/        # Login & Sign-up pages
 
-│   │   │── assets/       # Store images
+│   │   │── assets/       # store images
 
-│   │   └── App.tsx        # Main React/Vue app file
+│   │   └── App.js        # Main React/Vue app file
 
 │   │── public/           # Static files
 
@@ -44,34 +42,28 @@ Folder Structure
 
 │── .gitignore            # Ignored files
 
-Installation & Setup
+# Installation & Setup
 
-Frontend
-
-Install dependencies:
+• Install dependencies:
 
 npm install
 
-Start the frontend server:
+• Start the frontend server:
 
 npm start
 
-Usage
+# Usage
 
 Open http://localhost:3000 in your browser to access the authentication system.
 
 Register a new account and log in using your credentials.
 
-Technologies Used
+# Technologies Used
 
-React.js 
+• React.js
 
-Tailwind CSS 
+• Tailwind CSS
 
-Contributing
+# Contributing
 
 Feel free to fork this repository and submit pull requests for improvements.
-
-License
-
-This project is licensed under the MIT License.
