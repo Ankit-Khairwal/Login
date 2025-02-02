@@ -1,8 +1,77 @@
-# React + Vite
+Authentication System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains a simple authentication system that includes login and sign-up functionality.
 
-Currently, two official plugins are available:
+Image:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image alt](image_url)
+
+Features
+
+User registration (Sign-up)
+
+User login
+
+Password encryption
+
+Session management
+
+Responsive UI
+
+Folder Structure
+
+/auth-system
+
+│── frontend/             # Frontend (React, Vue, or any other framework)
+
+│   │── src/
+
+│   │   │── components/   # Reusable components
+
+│   │   │── pages/        # Login & Sign-up pages
+
+│   │   │── assets/       # Store images
+
+│   │   └── App.tsx        # Main React/Vue app file
+
+│   │── public/           # Static files
+
+│   └── index.html        # Root HTML file
+
+│── package.json          # Dependencies and scripts
+
+│── README.md             # Project documentation
+
+│── .gitignore            # Ignored files
+
+Installation & Setup
+
+Frontend
+
+Install dependencies:
+
+npm install
+
+Start the frontend server:
+
+npm start
+
+Usage
+
+Open http://localhost:3000 in your browser to access the authentication system.
+
+Register a new account and log in using your credentials.
+
+Technologies Used
+
+React.js 
+
+Tailwind CSS 
+
+Contributing
+
+Feel free to fork this repository and submit pull requests for improvements.
+
+License
+
+This project is licensed under the MIT License.
